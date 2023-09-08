@@ -110,14 +110,6 @@ img{
     padding: 5px;
 }
 
-.flex-basis-third .flex-item{
-    flex-basis: 33.33%; 
-}
-
-.flex-basis-half .flex-item{
-    flex-basis: 50%; 
-}
-
 .flex-item a{
     display: flex;
     width: 100%;
